@@ -8,7 +8,7 @@ To study the mode characteristics of a reflex klystron and hence determine the m
 
 ## Equipment and Components
 
-1. Klystron power supply MTI KP 503
+1. Klystron power supply MTI KP 503.    
 2. Klystron tube / 2K25
 3. Isolator MTI/NVIS-204
 4. Frequency meter MTI/NVIS-205A
@@ -69,8 +69,7 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Observation
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe98d61b-85e3-4e9c-8e04-6263a953dfdd" />
-
+*(Include your own table relevant to the experiment.)*
 
 ## Graph
 
@@ -91,4 +90,4 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Conclusion
 
-The mode characteristics of the Reflex Klystron were studied successfully. The variation of output power with repeller voltage was observed, and the different modes of oscillation were identified. The experiment verified the principle of velocity modulation and electron bunching used for microwave generation.
+*(Write your own.)*
